@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I’m Eslam Madhoun
 
-<!--
-**eslammadhoun/eslammadhoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Flutter Developer | Firebase • Clean Architecture • Offline‑First
 
-Here are some ideas to get you started:
+I’m a **Flutter developer** with solid experience building **production‑ready mobile apps** using clean architecture, modern state management, and scalable data layers. I enjoy turning complex ideas into clean, maintainable code and polished UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* 📱 Specialized in **Flutter UI**, **Firebase**, and **local persistence** (SQLite / Drift)
+* 🧱 Strong believer in **Clean Architecture**, **MVVM**, **Repository Pattern**
+* 🔄 Experience with **REST APIs**, **MockAPI**, and **GraphQL**
+* ⚡ Focus on **performance**, **maintainability**, and **developer experience**
+* 🎯 Goal‑oriented: building apps ready for real users, not just demos
+
+---
+
+## 🛠 Tech Stack
+
+**Mobile**
+
+* Flutter (Material 3)
+* Dart (OOP, async, streams)
+
+**State Management**
+
+* Bloc / Cubit
+* Provider
+
+**Backend & Data**
+
+* Firebase (Auth, Firestore)
+* REST APIs
+* GraphQL
+* SQLite / Drift
+
+**Architecture & Tools**
+
+* Clean Architecture
+* MVVM
+* Repository Pattern
+* Git & GitHub
+* Figma (UI implementation)
+
+---
+
+## 📌 Featured Projects
+
+### 📝 Todo App (Flutter + SQLite)
+
+* Offline‑first architecture
+* MVVM + Repository Pattern
+* Local persistence with SQLite
+* Clean separation of layers
+
+### 🛍 E‑Commerce App (Flutter + Firebase)
+
+* Product catalog with reviews & ratings
+* Firestore sub‑collections
+* Cart & checkout flow
+* Production‑ready UI
+
+### 🧪 Todo App with GraphQL
+
+* GraphQL queries & mutations
+* Scalable data layer
+* Clean error handling
+
+*(More projects coming soon…)*
+
+---
+
+## 📈 What I Care About
+
+* Writing **readable, testable code**
+* Proper **state & stream management**
+* Real‑world app architecture
+* Continuous learning & improvement
+
+---
+
+## 📫 Let’s Connect
+
+* 💼 GitHub: @EslamMadhoun
+* 📧 Email: (add your email here)
+
+---
+
+> “Good code is not just working code — it’s code you’re not afraid to touch after 6 months.”
