@@ -61,12 +61,6 @@ I’m a **Flutter developer** with solid experience building **production‑read
 * Cart & checkout flow
 * Production‑ready UI
 
-### 🧪 Todo App with GraphQL
-
-* GraphQL queries & mutations
-* Scalable data layer
-* Clean error handling
-
 *(More projects coming soon…)*
 
 ---
