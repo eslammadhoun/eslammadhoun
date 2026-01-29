@@ -76,8 +76,8 @@ I’m a **Flutter developer** with solid experience building **production‑read
 
 ## 📫 Let’s Connect
 
-* 💼 GitHub: @EslamMadhoun
-* 📧 Email: (add your email here)
+* 💼 GitHub: @eslammadhoun
+* 📧 Email: (eslammadhoun3@gmail.com)
 
 ---
 
